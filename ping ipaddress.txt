@@ -1,0 +1,9 @@
+ping ipaddress
+pwd-> gives current working directory
+ssh pi@192.168.137.51
+
+
+scp C:\path\to\file.txt pi@PI_IP:/home/pi/
+ scp C:\Users\LOQ\Desktop\hahah.txt pi@192.168.137.51:/home/pi/Desktop/hahah.txt
+
+sudo shutdown now
